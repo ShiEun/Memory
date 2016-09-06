@@ -4,109 +4,110 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:rowOrderPreserved="true"
-    android:nestedScrollingEnabled="true">
-        <TextView
+    android:nestedScrollingEnabled="true"
+    android:rowCount="4"
+    android:columnCount="4">
 
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_row="0"
+    <ImageView
+        android:id="@+id/friend5"
+        android:src="@drawable/friend5"
+        android:layout_width="107dp"
+        android:layout_height="151dp"
+        android:background="@android:color/black"
+        android:gravity="center"
+        android:padding="2dp"
+        android:layout_row="2"
         android:layout_column="0" />
 
     <ImageView
-        android:id="@+id/friend1"
-        android:src="@drawable/friend1"
-        android:layout_width="match_parent"
-        android:layout_height="166dp"
+        android:id="@+id/friend9"
+        android:src="@drawable/friend9"
+        android:layout_width="107dp"
+        android:layout_height="151dp"
         android:background="@android:color/black"
-        android:gravity="center"
-        android:padding="32dp"
-        android:layout_row="0"
-        android:layout_column="0"
-        android:layout_rowSpan="5"
-        android:layout_columnSpan="5"
-        android:layout_columnWeight="1dp"
-        android:layout_rowWeight="1dp" />
+        android:gravity="right"
+        android:padding="2dp"
+        android:layout_row="2"
+        android:layout_column="1" />
+
 
     <ImageView
-        android:id="@+id/friend2"
-        android:src="@drawable/friend2"
-        android:layout_width="131dp"
-        android:layout_height="117dp"
+        android:id="@+id/friend4"
+        android:src="@drawable/friend4"
+        android:layout_width="107dp"
+        android:layout_height="151dp"
         android:background="@android:color/black"
         android:gravity="left"
-        android:padding="32dp"
+        android:padding="2dp"
         android:layout_row="0"
-        android:layout_column="1" />
+        android:layout_column="0" />
 
     <ImageView
         android:id="@+id/friend3"
         android:src="@drawable/friend3"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_width="107dp"
+        android:layout_height="151dp"
         android:background="@android:color/black"
         android:gravity="right"
         android:padding="32dp"
         android:layout_row="0"
-        android:layout_column="2" />
+        android:layout_column="1" />
+
     <ImageView
-        android:id="@+id/friend4"
-        android:src="@drawable/friend4"
-        android:layout_width="match_parent"
-        android:layout_height="174dp"
-        android:background="@android:color/black"
-        android:gravity="left"
-        android:padding="32dp"
-        android:layout_row="1"
-        android:layout_column="0" />
-    <ImageView
-        android:id="@+id/friend5"
-        android:src="@drawable/friend5"
-        android:layout_width="133dp"
-        android:layout_height="179dp"
+        android:id="@+id/friend1"
+        android:src="@drawable/friend1"
+        android:layout_width="107dp"
+        android:layout_height="151dp"
         android:background="@android:color/black"
         android:gravity="center"
-        android:padding="32dp"
-        android:layout_row="1"
-        android:layout_column="1" />
-    <ImageView
-        android:id="@+id/friend6"
-        android:src="@drawable/friend6"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@android:color/black"
-        android:gravity="right"
-        android:padding="32dp"
-        android:layout_row="1"
+        android:padding="2dp"
+        android:layout_row="0"
         android:layout_column="2" />
+
     <ImageView
         android:id="@+id/friend7"
         android:src="@drawable/friend7"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="107dp"
+        android:layout_height="151dp"
         android:background="@android:color/black"
         android:gravity="left"
-        android:padding="32dp"
-        android:layout_row="2"
+        android:padding="2dp"
+        android:layout_row="1"
         android:layout_column="0" />
+
     <ImageView
         android:id="@+id/friend8"
         android:src="@drawable/friend8"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="107dp"
+        android:layout_height="151dp"
         android:background="@android:color/black"
         android:gravity="center"
-        android:padding="32dp"
-        android:layout_row="2"
+        android:padding="2dp"
+        android:layout_row="1"
         android:layout_column="1" />
+
     <ImageView
-        android:id="@+id/friend9"
-        android:src="@drawable/friend9"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:id="@+id/friend2"
+        android:src="@drawable/friend2"
+        android:layout_width="107dp"
+        android:layout_height="151dp"
+        android:background="@android:color/black"
+        android:gravity="left"
+        android:padding="2dp"
+        android:layout_row="1"
+        android:layout_column="2" />
+
+    <ImageView
+        android:id="@+id/friend6"
+        android:src="@drawable/friend6"
+        android:layout_width="107dp"
+        android:layout_height="151dp"
         android:background="@android:color/black"
         android:gravity="right"
-        android:padding="32dp"
+        android:padding="2dp"
         android:layout_row="2"
-        android:layout_column="2" />
-   >
+        android:layout_column="2" /><![CDATA[
+
+    >
+]]>
 </GridLayout>

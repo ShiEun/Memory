@@ -1,11 +1,19 @@
 [
     {
+        "merged": "/Users/appcreator32/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_family.xml",
+        "source": "/Users/appcreator32/Memory/Application/src/main/res/layout/fragment_family.xml"
+    },
+    {
         "merged": "/Users/appcreator32/Memory/Application/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/Users/appcreator32/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "/Users/appcreator32/Memory/Application/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/appcreator32/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator32/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_friend.xml",
+        "source": "/Users/appcreator32/Memory/Application/src/main/res/layout/fragment_friend.xml"
     },
     {
         "merged": "/Users/appcreator32/Memory/Application/build/intermediates/res/merged/debug/layout/sample_dashboard_item.xml",
@@ -26,6 +34,10 @@
     {
         "merged": "/Users/appcreator32/Memory/Application/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
         "source": "/Users/appcreator32/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/appcreator32/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_food.xml",
+        "source": "/Users/appcreator32/Memory/Application/src/main/res/layout/fragment_food.xml"
     },
     {
         "merged": "/Users/appcreator32/Memory/Application/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
