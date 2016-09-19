@@ -22,6 +22,105 @@
                         "endOffset": 745
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 59,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "/Users/appcreator32/Memory/Application/src/main/res/values-v20/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 750,
+                        "endColumn": 60,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 52,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "/Users/appcreator32/Memory/Application/src/main/res/values-v20/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 53,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 26,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "/Users/appcreator32/Memory/Application/src/main/res/values-v20/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 27,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "/Users/appcreator32/Memory/Application/src/main/res/values-v20/styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 924,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/Users/appcreator32/Memory/Application/src/main/res/values-v20/styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1121,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1394
+                    }
+                }
             }
         ]
     }
